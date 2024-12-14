@@ -284,4 +284,5 @@ Loss=0.12619204819202423 Batch_id=468 Accuracy=99.17: 100%|███████
 Test set: Average loss: 0.0243, Accuracy: 9926/10000 (99.26%)
 
 ```
+![Training GIF](./training_gif_aws.gif)
 
